@@ -1,0 +1,120 @@
+{
+	"song": {
+		"events": [
+			[
+				10065.7894736842,
+				[
+					[
+						"Play Animation",
+						"gah",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"american",
+						"dad"
+					]
+				]
+			],
+			[
+				10164.4736842105,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				10263.1578947368,
+				[
+					"Play Animation",
+					"gah",
+					"bf"
+				],
+				[
+					"Play Animation",
+					"american",
+					"dad"
+				]
+			],
+			[
+				13421.052631579,
+				[
+					[
+						"Play Animation",
+						"gah",
+						"bf"
+					],
+					[
+						"",
+						"american",
+						"dad"
+					]
+				]
+			],
+			[
+				16381.5789473684,
+				[
+					"Play Animation",
+					"gah",
+					"bf"
+				],
+				[
+					"Play Animation",
+					"american",
+					"dad"
+				]
+			],
+			[
+				16480.2631578947,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				],
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				16569.0789473684,
+				[
+					"Play Animation",
+					"gah",
+					"bf"
+				],
+				[
+					"Play Animation",
+					"american",
+					"dad"
+				]
+			],
+			[
+				19736.8421052632,
+				[
+					"Play Animation",
+					"gah",
+					"bf"
+				],
+				[
+					"Play Animation",
+					"american",
+					"dad"
+				]
+			]
+		]
+	}
+}

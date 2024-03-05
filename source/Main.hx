@@ -10,6 +10,8 @@ import openfl.display.FPS;
 import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
+import flixel.system.scaleModes.StageSizeScaleMode;
+import flixel.system.scaleModes.BaseScaleMode;
 
 //crash handler stuff
 #if CRASH_HANDLER
@@ -82,17 +84,19 @@ class Main extends Sprite
 		}
 	
 		ClientPrefs.loadDefaultKeys();
-		addChild(new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen));
+		addChild(new FlxGame(gameWidth, gameHeight, initialState, framerate, framerate, skipSplash, startFullscreen));
 
 		#if !mobile
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsVar);
 		Lib.current.stage.align = "tl";
-		Lib.current.stage.scaleMode = StageScaleMode.NO_SCALE;
 		if(fpsVar != null) {
 			fpsVar.visible = ClientPrefs.showFPS;
 		}
 		#end
+		FlxG.scaleMode = new StageSizeScaleMode();
+		FlxG.resizeGame(960, 720);
+		FlxG.resizeWindow(960, 720);
 
 		#if html5
 		FlxG.autoPause = false;

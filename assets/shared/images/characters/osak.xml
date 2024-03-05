@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="osak.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="osagah0000" x="10" y="10" width="290" height="433" pivotX="0" pivotY="0"/>
+	<SubTexture name="osagah0001" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0002" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0003" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0004" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0005" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0006" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0007" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0008" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0009" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0010" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0011" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0012" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osagah0013" x="10" y="10" width="290" height="433"/>
+	<SubTexture name="osdown0000" x="310" y="10" width="294" height="432" pivotX="0.7" pivotY="73.55" frameX="0" frameY="0" frameWidth="295" frameHeight="432"/>
+	<SubTexture name="osdown0001" x="310" y="10" width="294" height="432" frameX="0" frameY="0" frameWidth="295" frameHeight="432"/>
+	<SubTexture name="osdown0002" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0003" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0004" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0005" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0006" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0007" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0008" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0009" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0010" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0011" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0012" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osdown0013" x="614" y="10" width="295" height="432"/>
+	<SubTexture name="osidle0000" x="919" y="10" width="288" height="432" pivotX="0.7" pivotY="65.5" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0001" x="919" y="10" width="288" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0002" x="1217" y="10" width="287" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0003" x="1217" y="10" width="287" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0004" x="1514" y="10" width="285" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0005" x="1514" y="10" width="285" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0006" x="10" y="453" width="287" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0007" x="10" y="453" width="287" height="432" frameX="0" frameY="0" frameWidth="289" frameHeight="432"/>
+	<SubTexture name="osidle0008" x="307" y="453" width="289" height="432"/>
+	<SubTexture name="osidle0009" x="307" y="453" width="289" height="432"/>
+	<SubTexture name="osidle0010" x="307" y="453" width="289" height="432"/>
+	<SubTexture name="osidle0011" x="307" y="453" width="289" height="432"/>
+	<SubTexture name="osidle0012" x="307" y="453" width="289" height="432"/>
+	<SubTexture name="osidle0013" x="307" y="453" width="289" height="432"/>
+	<SubTexture name="osleft0000" x="606" y="453" width="278" height="432" pivotX="0.7" pivotY="73.55" frameX="0" frameY="0" frameWidth="281" frameHeight="432"/>
+	<SubTexture name="osleft0001" x="606" y="453" width="278" height="432" frameX="0" frameY="0" frameWidth="281" frameHeight="432"/>
+	<SubTexture name="osleft0002" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0003" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0004" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0005" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0006" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0007" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0008" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0009" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0010" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0011" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0012" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osleft0013" x="894" y="453" width="281" height="432"/>
+	<SubTexture name="osoll0000" x="1185" y="453" width="283" height="433" pivotX="0" pivotY="0"/>
+	<SubTexture name="osright0000" x="1478" y="453" width="306" height="432" pivotX="0.7" pivotY="73.55"/>
+	<SubTexture name="osright0001" x="1478" y="453" width="306" height="432"/>
+	<SubTexture name="osright0002" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0003" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0004" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0005" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0006" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0007" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0008" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0009" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0010" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0011" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0012" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osright0013" x="10" y="896" width="295" height="432" frameX="0" frameY="0" frameWidth="306" frameHeight="432"/>
+	<SubTexture name="osup0000" x="315" y="896" width="298" height="432" pivotX="0.7" pivotY="73.55" frameX="0" frameY="0" frameWidth="301" frameHeight="432"/>
+	<SubTexture name="osup0001" x="315" y="896" width="298" height="432" frameX="0" frameY="0" frameWidth="301" frameHeight="432"/>
+	<SubTexture name="osup0002" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0003" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0004" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0005" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0006" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0007" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0008" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0009" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0010" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0011" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0012" x="623" y="896" width="301" height="432"/>
+	<SubTexture name="osup0013" x="623" y="896" width="301" height="432"/>
+</TextureAtlas>

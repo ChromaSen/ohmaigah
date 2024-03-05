@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "ccidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-5
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ccleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-18
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ccright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				31
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ccup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-74
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ccdown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-23
+			],
+			"loop": false,
+			"anim": "american",
+			"fps": 24,
+			"name": "ccamerican",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cc",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

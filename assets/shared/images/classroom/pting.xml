@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pting.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ptthing instance 10000" x="10" y="10" width="709" height="615" pivotX="9.75" pivotY="66.2"/>
+	<SubTexture name="ptthing instance 10001" x="10" y="10" width="709" height="615"/>
+	<SubTexture name="ptthing instance 10002" x="729" y="10" width="522" height="475" frameX="-97" frameY="-120" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10003" x="729" y="10" width="522" height="475" frameX="-97" frameY="-120" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10004" x="1261" y="10" width="607" height="463" frameX="-56" frameY="-123" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10005" x="1261" y="10" width="607" height="463" frameX="-56" frameY="-123" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10006" x="10" y="635" width="583" height="485" frameX="-67" frameY="-110" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10007" x="10" y="635" width="583" height="485" frameX="-67" frameY="-110" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10008" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10009" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10010" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10011" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10012" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10013" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10014" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10015" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10016" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10017" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10018" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10019" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10020" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10021" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10022" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10023" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+	<SubTexture name="ptthing instance 10024" x="603" y="635" width="592" height="473" frameX="-63" frameY="-117" frameWidth="709" frameHeight="615"/>
+</TextureAtlas>
