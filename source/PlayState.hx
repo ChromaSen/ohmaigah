@@ -12,6 +12,7 @@ import flixel.FlxCamera;
 import flixel.FlxG;
 import flixel.FlxGame;
 import flixel.FlxObject;
+import hxvlc.flixel.FlxVideoSprite;
 import flixel.FlxSprite;
 import flixel.FlxState;
 import flixel.FlxSubState;
@@ -326,6 +327,8 @@ class PlayState extends MusicBeatState
 
 	public var classroom:FlxSprite;
 
+	public var cutsceneShit:FlxVideoSprite;
+
 	override public function create()
 	{
 		//trace('Playback Rate: ' + playbackRate);
@@ -535,6 +538,18 @@ class PlayState extends MusicBeatState
 			case 'tank':
 				add(foregroundSprites);
 		}
+		skipCountdown=true;
+		canPause=false;
+		camHUD.visible=false;
+		camGame.visible=false;
+
+		cutsceneShit = new FlxVideoSprite(FlxAxes.X,FlxAxes.Y);
+		cutsceneShit.bitmap.onEndReached.add(videokill);
+		cutsceneShit.x=100;
+
+		add(cutsceneShit);
+		cutsceneShit.playvideo(Paths.video('osaka_sann'));
+
 
 		#if LUA_ALLOWED
 		luaDebugGroup = new FlxTypedGroup<DebugLuaText>();
@@ -855,6 +870,7 @@ class PlayState extends MusicBeatState
 		timeBarBG.cameras = [camHUD];
 		timeTxt.cameras = [camHUD];
 		doof.cameras = [camHUD];
+		cutsceneShit.cameras=[camOther];
 
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;
@@ -1155,6 +1171,14 @@ class PlayState extends MusicBeatState
 		songSpeed = value;
 		noteKillOffset = 350 / songSpeed;
 		return value;
+	}
+
+	public function videokill(){
+		trace('video finished ' + curStep);
+		cutsceneShit.destroy();
+		canPause=true;
+		camHUD.visible=true;
+		camGame.visible=true;
 	}
 
 	function set_playbackRate(value:Float):Float
